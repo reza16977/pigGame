@@ -1,4 +1,5 @@
 # pigGame
+check game online https://reza16977.github.io/pigGame/
 
 this is a game called pig game and you and your friend will roll two dice and who first get the defined score is winner.
 
